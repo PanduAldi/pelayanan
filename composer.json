@@ -1,0 +1,14 @@
+{
+    "name": "composer/pelayanan",
+    "description": "Package Pelayanan",
+    "require": {
+        "mike42/escpos-php": "^1.4",
+        "fzaninotto/faker": "^1.6"
+    },
+    "authors": [
+        {
+            "name": "PanduAldi",
+            "email": "pandu@gmial.com"
+        }
+    ]
+}
